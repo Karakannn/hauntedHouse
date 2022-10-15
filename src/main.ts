@@ -4,7 +4,6 @@ import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
 import { GUI } from 'dat.gui';
 
 import './style.css'
-import { text } from 'stream/consumers';
 
 
 const webGLCanvas: any = document.querySelector('canvas.webgl')
