@@ -23,13 +23,13 @@ const clock = new Clock();
 //Textures#
 
 //Door
-const doorColorTexture = textureLoader.load('../public/textures/door/color.jpg')
-const doorAlphaTexture = textureLoader.load('../public/textures/door/alpha.jpg')
-const doorAmbientOcclusionTexture = textureLoader.load('../public/textures/door/ambientOcclusion.jpg')
-const doorHeightTexture = textureLoader.load('../public/textures/door/height.jpg')
-const doorNormalTexture = textureLoader.load('../public/textures/door/normal.jpg')
-const doorMetalnessTexture = textureLoader.load('../public/textures/door/metalness.jpg')
-const doorRoughnessTexture = textureLoader.load('../public/textures/door/roughness.jpg')
+const doorColorTexture = textureLoader.load('../textures/textures/door/color.jpg')
+const doorAlphaTexture = textureLoader.load('../textures/textures/door/alpha.jpg')
+const doorAmbientOcclusionTexture = textureLoader.load('../textures/textures/door/ambientOcclusion.jpg')
+const doorHeightTexture = textureLoader.load('../textures/textures/door/height.jpg')
+const doorNormalTexture = textureLoader.load('../textures/textures/door/normal.jpg')
+const doorMetalnessTexture = textureLoader.load('../textures/textures/door/metalness.jpg')
+const doorRoughnessTexture = textureLoader.load('../textures/textures/door/roughness.jpg')
 
 
 //Bricks
